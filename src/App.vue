@@ -8,9 +8,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <body class="bg-blue-100 w-screen h-screen">
 
-  <div class="flex items-center justify-center">
-  </div>
-
   <div class="grid lg:grid-cols-4">
     <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-pink-200 rounded shadow-md">
@@ -47,6 +44,7 @@ import HelloWorld from './components/HelloWorld.vue'
              </ul>
           </div>
     </div>
+
 </div>
 
 
