@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 
-  <body class="bg-teal-800 w-screen h-screen overflow-auto ">
+  <body class="bg-teal-800 w-screen h-screen overflow-auto flex justify-around">
 
   <div class="grid lg:grid-cols-4 flex items-center justify-center ">
     <div class="w-full p-4 lg:w-80">
