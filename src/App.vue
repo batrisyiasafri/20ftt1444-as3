@@ -18,6 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
            <p class="text-grey-200">Name: Batrisyia Safri</p>
            <p class="text-grey-200">Student ID: 20FTT1444</p>
            <p class="text-grey-200">Group Code: DWDT06</p>
+           <p class="text-grey-200">Hello</p>
 
         </div>
       </div>
