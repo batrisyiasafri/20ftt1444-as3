@@ -44,6 +44,18 @@ import HelloWorld from './components/HelloWorld.vue'
              </ul>
           </div>
     </div>
+    
+       <div class="w-full p-4 lg:w-80">
+        <div class="p-8 bg-sky-200 rounded shadow-md">
+            <h2 class="text-2xl font-bold">Projects</h2>
+            <ul class="list-disc">
+            <li class="text-grey-200">Developed an Assignment Reminder CMS using PHP</li>
+            <li class="text-grey-200">Developed a CCA Registration using AngularJs</li>
+            <li class="text-grey-200">Developed an Invitation Card using JS </li>
+            </ul>
+        </div>
+      </div>
+
 
 </div>
 
