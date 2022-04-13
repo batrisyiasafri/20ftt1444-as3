@@ -6,9 +6,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 
-  <body class="bg-blue-100 w-screen h-screen">
+  <body class="bg-teal-800 w-screen h-screen ">
 
-  <div class="grid lg:grid-cols-4">
+  <div class="grid lg:grid-cols-4 ">
     <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-pink-200 rounded shadow-md">
           <h2 class="text-2xl font-bold">Profile</h2>
@@ -49,9 +49,9 @@ import HelloWorld from './components/HelloWorld.vue'
         <div class="p-8 bg-sky-200 rounded shadow-md">
             <h2 class="text-2xl font-bold">Projects</h2>
             <ul class="list-disc">
-            <li class="text-grey-200">Developed an Assignment Reminder CMS using PHP</li>
-            <li class="text-grey-200">Developed a CCA Registration using AngularJs</li>
-            <li class="text-grey-200">Developed an Invitation Card using JS </li>
+            <li class="text-grey-200">Assignment Reminder CMS using PHP</li>
+            <li class="text-grey-200">CCA Registration using AngularJs</li>
+            <li class="text-grey-200">Invitation Card using JS </li>
             </ul>
         </div>
       </div>
