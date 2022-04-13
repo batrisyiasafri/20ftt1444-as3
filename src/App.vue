@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <body class="bg-teal-800 w-screen h-screen overflow-auto ">
 
-  <div class="grid lg:grid-cols-4 ">
+  <div class="grid lg:grid-cols-4 flex items-center justify-center ">
     <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-pink-200 rounded shadow-md">
           <h2 class="text-2xl font-bold">Profile</h2>
