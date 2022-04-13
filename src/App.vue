@@ -23,7 +23,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-green-200 rounded shadow-md">
-            <h2 class="text-2xl font-bold">Interests</h2>
+            <h2 class="text-2xl font-bold underline">Interests</h2>
+            <br>
             <ul class="list-disc">
             <li class="text-grey-200">Learning PHP, Tailwind and Vue</li>
             <li class="text-grey-200">Cooking Malaysian Cuisine</li>
@@ -35,7 +36,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <br>
 
           <div class="p-8 bg-amber-200 rounded shadow-md">
-            <h2 class="text-2xl font-bold">Hobbies</h2>
+            <h2 class="text-2xl font-bold underline">Hobbies</h2>
+            <br>
             <ul class="list-disc">
             <li class="text-grey-200">Go for a walk</li>
             <li class="text-grey-200">Visit my pets</li>
@@ -47,14 +49,33 @@ import HelloWorld from './components/HelloWorld.vue'
     
        <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-sky-200 rounded shadow-md">
-            <h2 class="text-2xl font-bold">Projects</h2>
+            <h2 class="text-2xl font-bold underline">Projects</h2>
+            <br>
             <ul class="list-disc">
-            <li class="text-grey-200">Assignment Reminder CMS using PHP</li>
+            <li class="text-grey-200">Assignment Reminder (CMS) using PHP</li>
             <li class="text-grey-200">CCA Registration using AngularJs</li>
             <li class="text-grey-200">Invitation Card using JS </li>
             </ul>
         </div>
+
+        <br>
+
+           <div class="p-8 bg-rose-400 rounded shadow-md">
+            <h2 class="text-2xl font-bold underline">Education</h2>
+            <br>
+            <ul class="list-disc">
+            <li class="text-grey-200">PSR</li>
+            <li class="text-grey-200">SPE</li>
+            <li class="text-grey-200">SSRU</li>
+            <li class="text-grey-200">O'Level</li>
+            </ul>
+
+        </div>
+
+
+
       </div>
+      
 
 
 </div>
