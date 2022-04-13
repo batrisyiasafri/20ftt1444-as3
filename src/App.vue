@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div class="grid lg:grid-cols-4 flex items-center justify-center ">
     <div class="w-full p-4 lg:w-80">
         <div class="p-8 bg-pink-200 rounded shadow-md">
-          <h2 class="text-2xl font-bold">Profile</h2>
+          <h2 class="text-2xl font-bold underline">Profile</h2>
           <br>
            <img class="mx-auto rounded-extraLarge, rounded-tr-extraLarge, rounded-tl-extraLarge, rounded-br-extraLarge, rounded-bl-extraLarge rounded-tr-extraLarge rounded-bl-extraLarge rounded-tl-extraLarge rounded-br-extraLarge object-contain h-60 w-100" alt="mypic" src="./assets/mypic.jpg"/>
            <br>
@@ -72,11 +72,22 @@ import HelloWorld from './components/HelloWorld.vue'
             </ul>
 
         </div>
-
-
-
       </div>
-      
+
+       <div class="grid lg:grid-cols-4 flex items-center justify-center ">
+       <div class="w-full p-4 lg:w-80">
+        <div class="p-8 bg-purple-400 rounded shadow-md">
+          <h2 class="text-2xl font-bold underline">Languages</h2>
+          <br>
+           <ul class="list-disc">
+            <li class="text-grey-200">HTML</li>
+            <li class="text-grey-200">JavaScript</li>
+            <li class="text-grey-200">PHP</li>
+            <li class="text-grey-200">AngularJs</li>
+            </ul>
+          </div>
+        </div>
+     </div>
 
 
 </div>
