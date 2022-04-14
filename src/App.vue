@@ -16,8 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
            <img class="mx-auto rounded-extraLarge, rounded-tr-extraLarge, rounded-tl-extraLarge, rounded-br-extraLarge, rounded-bl-extraLarge rounded-tr-extraLarge rounded-bl-extraLarge rounded-tl-extraLarge rounded-br-extraLarge object-contain h-60 w-100" alt="mypic" src="./assets/mypic.jpg"/>
            <br>
            <p class="text-grey-200">Name: Batrisyia Safri</p>
-           <p class="text-grey-200">Student ID: 20FTT1444</p>
-           <p class="text-grey-200">Group Code: DWDT06</p>
+           <p class="text-grey-200 ">Contact: 20FTT1444@student.pb.edu.bn</p>
 
         </div>
       </div>
