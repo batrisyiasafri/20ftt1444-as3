@@ -21,4 +21,4 @@ https://larainfo.com/blogs/create-a-simple-responsive-card-grid-with-tailwind-cs
 3. Tailwind CSS Customization
 Title:  tailwindcss
 Author: tailwindcss
-https://tailwindcss.com/docs/aspect-ratio
+https://tailwindcss.com/docs/aspect-ratio 
